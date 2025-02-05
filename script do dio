@@ -19,6 +19,10 @@ autoinstall:
         - name: spotify
           channel: stable
           classic: false
+
+name: vivaldi
+channel: stable
+classic: false
     codecs:
         install: true
     drivers:
